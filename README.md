@@ -7,8 +7,7 @@
 
 </head>
 <style>
-<body>{   
-background-image:url(D:\study\gauravp\project1);}
+<body>
 </style>
 
 
